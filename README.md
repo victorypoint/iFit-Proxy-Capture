@@ -18,8 +18,6 @@ Using a SSL/TLS proxy while connected to a NordicTrack Commericial 2950 iFit Emb
 
 - 10 iFit events were captured sequentially as I stepped through the workout sequence described above
 - iFit events are captured as JSON data
-- ifit.xml (not very readable)
-- ifit.xml.html (readable HTML)
 
 #### iFit workout data captured as Raygun4Net logs
 
@@ -40,7 +38,7 @@ Using a SSL/TLS proxy while connected to a NordicTrack Commericial 2950 iFit Emb
 
   - [Trace:CacheFileManager] Secure Cache Directory is /data/user/0/com.ifit.standalone/files/Secret
 
-#### iFit JSON events as described in BurpSuite Proxy ifit.xml.html (readable HTML) - 10 events
+#### iFit JSON events captured with BurpSuite Proxy - 10 events
 
 > {"EventData":[{"SessionId":"b917bda2-d688-475ab6c6-7350dbb3bee5","Timestamp":"2022-05-13T14:55:18.17652Z","Type":"session_start","User":{"Identifier":"3401fdfadd556c5d"
 ,"IsAnonymous":true,"UUID":"3401fdfadd556c5d"},"Version":"3818 / 2.6.78","OS":"Android","OSVersion":"9","Platform":"Malata 
