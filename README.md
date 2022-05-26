@@ -16,7 +16,7 @@ Using a SSL/TLS proxy while connected to a NordicTrack Commericial 2950 iFit Emb
 
 #### iFit logs captured with BurpSuite Proxy (running on a Windows 11 PC):
 
-- 11 iFit events were captured sequentially as I stepped through the workout sequence described above
+- 10 iFit events were captured sequentially as I stepped through the workout sequence described above
 - iFit events are captured as JSON data
 - ifit.xml (not very readable)
 - ifit.xml.html (readable HTML)
