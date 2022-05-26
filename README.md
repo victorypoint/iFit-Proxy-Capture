@@ -46,7 +46,7 @@ Using a SSL/TLS proxy while connected to a NordicTrack Commericial 2950 iFit Emb
 ,"IsAnonymous":true,"UUID":"3401fdfadd556c5d"},"Version":"3818 / 2.6.78","OS":"Android","OSVersion":"9","Platform":"Malata 
 MalataMediatekArgon2"}]}
 
-{"EventData":[{"SessionId":"b917bda2-d688-475ab6c6-7350dbb3bee5","Timestamp":"2022-05-13T14:55:45.108394Z","Type":"mobile_event_timing","User":{"Identifier":"alanudell",
+{"EventData":[{"SessionId":"b917bda2-d688-475ab6c6-7350dbb3bee5","Timestamp":"2022-05-13T14:55:45.108394Z","Type":"mobile_event_timing","User":{"Identifier":"xxxx",
 "IsAnonymous":false,"Email":"xxxx","FullName":"xxxx"},"Version":"2.6.78.3818","OS":"Android","OSVersion":"9","Platform":"Malata MalataMediatekArgon2","Data":"[{\"Name\":
 \"LaunchScreenView\",\"Timing\":{\"Type\":\"p\",\"Duration\":111}}]"}]}
 
