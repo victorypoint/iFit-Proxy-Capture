@@ -1,7 +1,7 @@
-# iFit-Proxy-Capture
+# iFit1-Proxy-Capture
 ### iFit workout - SSL/TLS data capture
 
-Using a SSL/TLS proxy while connected to a NordicTrack Commericial 2950 iFit Embedded Wifi treadmill (2021 model), I've collected a number of logs from a manual workout where I change speed and incline.
+Using a SSL/TLS proxy while connected to a NordicTrack Commericial 2950 iFit Embedded Wifi treadmill (2021 model), I've collected a number of logs from an iFit1 manual workout where I change speed and incline.
 
 #### Manual workout sequence:
 
